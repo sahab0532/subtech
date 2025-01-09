@@ -1,0 +1,13 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  a.btn-outline-secondary {
+    color: #6c757d;
+    text-decoration: none;
+  }
+  
+  a.btn-outline-secondary:hover {
+    text-decoration: underline;
+  }
+  
